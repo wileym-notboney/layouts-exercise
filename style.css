@@ -1,0 +1,25 @@
+.top bar {
+  display: inline;
+  width: 100%;
+  height: 80px;
+  background-color: grey;
+}
+
+.nav-link {
+  dipslay: inline;
+  float: right;
+  position: relative;
+  top: 0;
+}
+
+nav {
+  height: 40px;
+  width: 100%;
+  background-color: lightgray;
+}
+
+
+.page buttons {
+  display: in-line;
+  border: 1px;
+}
